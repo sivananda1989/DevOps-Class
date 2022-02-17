@@ -6,4 +6,10 @@ grep
 awk
 cut
 sort
+nslookup
+netstat
+top
+head
+tail
+
 
