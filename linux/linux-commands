@@ -1,5 +1,9 @@
 cat
 mv
-cp
+cp ==>copying files
 sed
 grep
+awk
+cut
+sort
+
