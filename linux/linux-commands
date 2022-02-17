@@ -11,7 +11,5 @@ netstat
 top
 head
 tail
-du -h
-df -h
 
 
